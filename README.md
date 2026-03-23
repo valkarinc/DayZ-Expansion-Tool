@@ -1,6 +1,6 @@
 # 🛠 DayZ Expansion Tool
 
-A powerful, user-friendly utility designed for DayZ server owners to manage Expansion Market configurations and Trader mapping without the headache of manual JSON editing.
+A powerful, user-friendly utility designed for DayZ server owners to manage Expansion Market configurations and Trader mapping without the headache of manual JSON editing. Huge shoutout to Ninjins conversion tool for giving me the idea to create this tool.
 
 ---
 
